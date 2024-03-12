@@ -3,7 +3,9 @@
 
 Source code and html page are located in the "Leaflet-Part-1/" directory.  
 
-Please open "index.html" using a web browser to view the result.  
+Please open "index.html" using a web browser to view the result or visit the  
+deployed Github page: "https://jeffrey1008x.github.io/leaflet-challenge/Leaflet-Part-1/"
+
 Also note that if there is an error on loading the geojson shown on console,  
 please refresh the page in 30 seconds as the api sometime results in errors.
 
